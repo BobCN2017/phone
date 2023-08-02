@@ -1,7 +1,7 @@
 # 手机号归属地数据
 
 手机归属地数据csv版本
-从phone.dat文件中读出最新数据，写入csv文件，2023年2月版文件为phone_address.csv,共497191条数据
+从phone.dat文件中读出最新数据，写入csv文件，2023年2月版文件为phone_address.csv,共497191条数据,直接下载：<https://github.com/BobCN2017/phone/blob/master/phone_address.csv>
 
 数据来源：<https://github.com/lovedboy/phone> ，该库提供了csv文件下载，但数据是几年前的。
 
